@@ -5,4 +5,6 @@ __pycache__/
 *.sqlite3-wal
 .env
 .venv/
+.vercel/
+node_modules/
 
